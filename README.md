@@ -85,3 +85,8 @@ Not supported yet: live-panel's `loop`/`ring`/`funnel` views, `path`, `tarrow`, 
 
 ## License
 MIT
+
+## Related tools
+- [hf-newcomers](https://github.com/Dodai0419/hf-newcomers): models and Spaces that just entered Hugging Face trending
+- [session-panel](https://github.com/Dodai0419/session-panel): replay a Claude Code session as an animated panel
+- All tools, one install pattern: [github.com/Dodai0419](https://github.com/Dodai0419)
