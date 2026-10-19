@@ -1,0 +1,13 @@
+{
+  "name": "breakout-panel",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "breakout-panel",
+      "source": "./",
+      "description": "Turn today's fastest-rising GitHub repos into an animated live-panel page in one command."
+    }
+  ]
+}

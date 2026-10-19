@@ -1,0 +1,233 @@
+{
+ "items": [
+  {
+   "created_at": "2026-10-06T21:47:02Z",
+   "description": null,
+   "full_name": "openai/math",
+   "stargazers_count": 14971
+  },
+  {
+   "created_at": "2026-10-07T08:34:24Z",
+   "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+   "full_name": "storytold/wordcraft",
+   "stargazers_count": 13344
+  },
+  {
+   "created_at": "2026-10-08T10:12:49Z",
+   "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+   "full_name": "wheresryan22/anatomy",
+   "stargazers_count": 13226
+  },
+  {
+   "created_at": "2026-10-07T05:18:16Z",
+   "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+   "full_name": "storytold/gridcraft",
+   "stargazers_count": 5250
+  },
+  {
+   "created_at": "2026-10-07T05:22:31Z",
+   "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+   "full_name": "storytold/cadcraft",
+   "stargazers_count": 5232
+  },
+  {
+   "created_at": "2026-10-08T05:33:06Z",
+   "description": null,
+   "full_name": "mhtsec/ARTEX",
+   "stargazers_count": 4328
+  },
+  {
+   "created_at": "2026-10-08T20:37:51Z",
+   "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+   "full_name": "ARahim3/DigUp",
+   "stargazers_count": 4166
+  },
+  {
+   "created_at": "2026-10-06T04:49:37Z",
+   "description": null,
+   "full_name": "alchaincyf/huashu-art-motion",
+   "stargazers_count": 4099
+  },
+  {
+   "created_at": "2026-10-06T15:09:33Z",
+   "description": null,
+   "full_name": "zhongerxin/iPhone-use",
+   "stargazers_count": 3897
+  },
+  {
+   "created_at": "2026-10-06T20:14:19Z",
+   "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+   "full_name": "LosaLosSantos/aurelio-finance",
+   "stargazers_count": 3743
+  },
+  {
+   "created_at": "2026-10-07T05:27:21Z",
+   "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+   "full_name": "storytold/deckcraft",
+   "stargazers_count": 3491
+  },
+  {
+   "created_at": "2026-10-02T09:57:40Z",
+   "description": null,
+   "full_name": "QingYunA/answer-me-with-html",
+   "stargazers_count": 3486
+  },
+  {
+   "created_at": "2026-10-07T08:13:12Z",
+   "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+   "full_name": "nullmoth/nvidia-macos-driver",
+   "stargazers_count": 3182
+  },
+  {
+   "created_at": "2026-10-07T08:31:31Z",
+   "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+   "full_name": "storytold/soundcraft",
+   "stargazers_count": 2985
+  },
+  {
+   "created_at": "2026-10-09T23:21:59Z",
+   "description": "The Craft App Launcher",
+   "full_name": "storytold/craft-launcher",
+   "stargazers_count": 2916
+  },
+  {
+   "created_at": "2026-10-07T18:57:48Z",
+   "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+   "full_name": "bherbruck/solidcraft",
+   "stargazers_count": 2831
+  },
+  {
+   "created_at": "2026-10-03T12:07:49Z",
+   "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+   "full_name": "Jakeschincariol/replica-skill",
+   "stargazers_count": 2787
+  },
+  {
+   "created_at": "2026-10-08T06:38:33Z",
+   "description": "airdrop for non-apple devices",
+   "full_name": "t4t5/omdrop-owl",
+   "stargazers_count": 2759
+  },
+  {
+   "created_at": "2026-10-11T19:10:25Z",
+   "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+   "full_name": "onehumanbeing/esp32-iphone-agent",
+   "stargazers_count": 2664
+  },
+  {
+   "created_at": "2026-10-08T07:09:25Z",
+   "description": null,
+   "full_name": "T-Auto/dsh-ops",
+   "stargazers_count": 2388
+  },
+  {
+   "created_at": "2026-10-11T03:47:06Z",
+   "description": null,
+   "full_name": "liseami/CCBaga",
+   "stargazers_count": 2359
+  },
+  {
+   "created_at": "2026-10-07T01:29:54Z",
+   "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+   "full_name": "alejandrobujan/tendedero",
+   "stargazers_count": 2225
+  },
+  {
+   "created_at": "2026-10-02T18:21:23Z",
+   "description": "Open source SDK to build Muse gadgets",
+   "full_name": "facebookincubator/muse-gadget-sdk",
+   "stargazers_count": 2218
+  },
+  {
+   "created_at": "2026-10-08T17:50:33Z",
+   "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+   "full_name": "noahdunnagan/fsearch",
+   "stargazers_count": 2093
+  },
+  {
+   "created_at": "2026-10-07T15:37:36Z",
+   "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+   "full_name": "Fei2411/DeepSeek-Bot",
+   "stargazers_count": 2074
+  },
+  {
+   "created_at": "2026-10-07T09:33:31Z",
+   "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+   "full_name": "LoreanXavier/pt-pc",
+   "stargazers_count": 1815
+  },
+  {
+   "created_at": "2026-10-04T10:55:58Z",
+   "description": null,
+   "full_name": "kargulstudio/sales-crm",
+   "stargazers_count": 1713
+  },
+  {
+   "created_at": "2026-10-07T08:37:15Z",
+   "description": "A source code for playgta5.com.",
+   "full_name": "shadany7824/playgta5",
+   "stargazers_count": 1641
+  },
+  {
+   "created_at": "2026-10-03T14:49:48Z",
+   "description": null,
+   "full_name": "jiwoochris/artex-global",
+   "stargazers_count": 1563
+  },
+  {
+   "created_at": "2026-10-08T17:27:36Z",
+   "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+   "full_name": "NVIDIA-Omniverse/usd-brep",
+   "stargazers_count": 1526
+  },
+  {
+   "created_at": "2026-10-05T20:57:05Z",
+   "description": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+   "full_name": "academa-labs/manimgx",
+   "stargazers_count": 1499
+  },
+  {
+   "created_at": "2026-10-02T09:38:41Z",
+   "description": null,
+   "full_name": "sganggs/Stronghold-Protocol",
+   "stargazers_count": 1495
+  },
+  {
+   "created_at": "2026-10-09T16:02:13Z",
+   "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+   "full_name": "storytold/figcraft",
+   "stargazers_count": 1494
+  },
+  {
+   "created_at": "2026-10-07T05:10:45Z",
+   "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+   "full_name": "HelixDB/helix-foundry",
+   "stargazers_count": 1492
+  },
+  {
+   "created_at": "2026-10-02T19:57:41Z",
+   "description": "League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds.",
+   "full_name": "darrenprx/lolPing",
+   "stargazers_count": 1476
+  },
+  {
+   "created_at": "2026-10-13T16:18:22Z",
+   "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+   "full_name": "HeyPuter/everything",
+   "stargazers_count": 1424
+  },
+  {
+   "created_at": "2026-10-10T00:03:25Z",
+   "description": "Open source canva alternative",
+   "full_name": "shaongitbd/doory",
+   "stargazers_count": 1358
+  },
+  {
+   "created_at": "2026-10-14T19:33:56Z",
+   "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+   "full_name": "ahwootech/BRUTAL",
+   "stargazers_count": 1286
+  }
+ ],
+ "now": "2026-10-16T12:00:00Z"
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+breakout-panel.html
+stars.json
